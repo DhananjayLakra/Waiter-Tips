@@ -1,5 +1,5 @@
 # Waiter-Tips
-Used Linear Regression model to predict the amount of a tip a waiter will get
+Used Linear Regression model to predict the amount of a tip a waiter will get. The model was trained on multiple features like total_bill, sex, smoker, day, time and size; all of which are described below. 
 
 # About the Dataset:
 the dataset can also be found on [kaggle](https://www.kaggle.com/datasets/jsphyg/tipping)
