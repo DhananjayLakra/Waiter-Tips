@@ -20,4 +20,4 @@ time: lunch or dinner
 
 size: number of people in a table 
 
-Before passing into the Linear Regression model the non numeric fields are encoded into suitable numeric values. Once the model is trained, it is used to make predictions and tested for overfitting. A test MSE score of 0.92 was achieved 
+The non-numeric fields, such as "day" are encoded into suitable numeric values before passing them into the model. Once the model is trained, it is used to make predictions and is also tested for overfitting. A test MSE score of 0.92 was achieved 
